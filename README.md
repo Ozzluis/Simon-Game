@@ -1,4 +1,4 @@
-# Simon-Game
+# Simon-Game 🪁🎍
 
 Simon Game project to learn JavaScript.
 
